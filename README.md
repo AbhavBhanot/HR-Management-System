@@ -74,11 +74,10 @@ The HR Management System (HRMS) is a comprehensive solution designed to automate
 
 * **Python:** Backend logic and data processing.
 * **Streamlit:** Frontend user interface for real-time data interaction.
-* **PostgreSQL:** Database for storing employee, salary, and performance data.
+* **MySQL:** Database for storing employee, salary, and performance data.
 * **pandas:** Data manipulation and analysis.
-* **scikit-learn:** For implementing machine learning algorithms for predictive analytics (e.g., attrition prediction).
-* **SQLAlchemy:** For interacting with the PostgreSQL database.
-* **matplotlib & seaborn:** For data visualization in Streamlit.
+* **MySQLConnector:** For interacting with the MySQL database.
+
 
 ### Future Enhancements
 
